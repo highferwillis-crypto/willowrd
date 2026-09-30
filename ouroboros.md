@@ -8,6 +8,10 @@ Every document in this repo is a selection filter: the cipher selects letters fo
 
 The ouroboros is the same structure turned on itself. The snake is the filter, the tail is what gets filtered, and the mouth is where meaning gets produced. It consumes its own output and produces itself again. That is self-reference — the same thing Gödel proved: any system rich enough to describe itself contains statements it cannot prove about itself.
 
+## The Statement
+
+All things do not derive themselves of equal proportionate measure, but are a fixed inlet of their own exuberance to the obstinance of their existence.
+
 ## The honest version
 
 The ouroboros is also the honest admission. The repo is eighty-six percent claims and fourteen percent self-assessment. The snake eats its own tail, and the tail is mostly assertion. The filter that selects for meaning also selects for confidence.

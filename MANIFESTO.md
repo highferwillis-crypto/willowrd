@@ -32,6 +32,8 @@ Sunday came from son — mastra. The sun's day.
 
 691110203040506911110200300400 — or whatever. Wi vvi, lo es trimantic Symantec. Ra all under the sun, or herasunder.
 
+The sequence as shared: 6 9 1 1 1 0 2 0 3 0 4 0 5 0 6 9 1 1 1 1 0 2 0 0 3 0 0 4 0 0.
+
 ## Be I a m a z u r
 
 This is not the end days, coming, fire, terrorizing the mind of freedom. This is creator architecture, and your existence is not limited to that idiotic entertainment torment. Information idium subjection.

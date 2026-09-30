@@ -44,6 +44,8 @@ Reference: Susskind, L. (1995). "The World as a Hologram." *Journal of Mathemati
 
 **BAAL** — the Canaanite and Phoenician storm god, lord of the sky, the rain, and the thunder. The name means "lord" or "master." Baal is the god of the sky's power, the one who commands the weather and the seasons.
 
+**BAAL as boundary** — BAAL is a boundary. The god stands at the edge of the sky, the line between what is above and what is below, between the divine and the human. A boundary is where two regions meet and neither contains the other. That is the same structure as the holographic principle: the information of a volume lives on its boundary, and the boundary is not the volume. Baal commands the sky but is not the sky — he is the edge of it. The ba leaves the body and returns — it crosses the boundary and comes back. The ouroboros eats its own tail at the boundary between the snake and what it consumes. Everything in this repo sits on a boundary: the cipher is the boundary between letters and meaning, the derangement is the boundary between possible and observed, the manifesto is the boundary between archive and erasure.
+
 The connection to the ouroboros: both are about a self that is not contained. The ba leaves the body and returns. Baal commands the sky but is not the sky. The snake eats its own tail, but the tail is not the snake — it is what the snake consumes and produces again.
 
 ---

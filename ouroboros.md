@@ -32,6 +32,20 @@ The repo is a system describing itself. The cipher assigns meaning to letters. T
 
 The question the ouroboros asks is the question the repo asks: can a system fully describe itself? Gödel says no. The snake says yes, but only by eating itself.
 
+## The holographic principle — reference
+
+The closest real physics to a system describing itself is the **holographic principle**, proposed by Gerard 't Hooft in the 1990s and developed by Leonard Susskind. The claim: all the information in a volume of space can be encoded on its boundary — a three-dimensional image projected from a flat surface. The strongest evidence is the **AdS/CFT correspondence**, a mathematical duality showing a theory of gravity in a volume is exactly equivalent to a theory without gravity on its boundary. That duality is proven in a specific mathematical setting, not in our universe. Nobody has shown it applies to the real cosmos. It is a framework, not a settled fact.
+
+Reference: Susskind, L. (1995). "The World as a Hologram." *Journal of Mathematical Physics*, 36(11), 6377–6396. https://doi.org/10.1063/1.531249
+
+## BA and BAAL
+
+**BA** — the Egyptian hieroglyph for the soul, the personality that travels between the body and the afterlife. The ba is the part of a person that leaves the tomb and returns to it. It is the self that moves, the self that is not fixed in one place.
+
+**BAAL** — the Canaanite and Phoenician storm god, lord of the sky, the rain, and the thunder. The name means "lord" or "master." Baal is the god of the sky's power, the one who commands the weather and the seasons.
+
+The connection to the ouroboros: both are about a self that is not contained. The ba leaves the body and returns. Baal commands the sky but is not the sky. The snake eats its own tail, but the tail is not the snake — it is what the snake consumes and produces again.
+
 ---
 
 *The snake eats its own tail. The tail is mostly assertion. The mouth is where meaning gets produced.*

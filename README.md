@@ -1,5 +1,7 @@
 # Willow'rd
 
+**Everything Under the Sun**
+
 **Symbol: the ouroboros** — the snake eating its own tail. Every document in this repo is a selection filter, and the repo itself is the snake: it consumes its own output and produces itself again.
 
 A personal symbolic system — alphabet cipher, derangement-as-anthropic-principle, and the empire critique. Open for discussion.

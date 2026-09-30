@@ -1,5 +1,7 @@
 # Willow'rd
 
+**Symbol: the ouroboros** — the snake eating its own tail. Every document in this repo is a selection filter, and the repo itself is the snake: it consumes its own output and produces itself again.
+
 A personal symbolic system — alphabet cipher, derangement-as-anthropic-principle, and the empire critique. Open for discussion.
 
 ## The Alphabet Cipher
@@ -58,3 +60,5 @@ Science as a system that sorts people by wealth and calls it objectivity. Machin
 ---
 
 *This is not the end days. This is creator architecture. Lift up everyone, all life.*
+
+*The snake eats its own tail. The tail is mostly assertion. The mouth is where meaning gets produced.*

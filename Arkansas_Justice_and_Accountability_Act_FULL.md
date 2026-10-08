@@ -155,121 +155,36 @@ The first major opening came at the federal level. The Bail Reform Act of 1966 h
 
 **The Supreme Court's answer:** In United States v. Salerno (1987), the Court upheld the Act 6-3, holding that the government's interest in preventing crime can justify pretrial detention — but only with rigorous procedural protections: a hearing, counsel, clear and convincing evidence, and individualized findings. Justice Marshall's dissent warned that the majority had "open[ed] a door that no man can close" and that the decision would be used to justify detention far beyond its stated limits.
 
-**The objection that survived:** Salerno's safeguards were procedural, not substantive. They assumed a neutral magistrate applying individualized findings. In practice, those protections became paper. Detention hearings became routine. The clear-and-convincing standard was met with boilerplate. The individualized finding became a checkbox. Salerno authorized detention with safeguards; Arkansas and many states achieved detention without them — by setting a price instead of making a finding. The constitutional objection was never resolved. It was relocated.
+**The objection that survived:** Salerno's safeguards were procedural — a hearing, counsel, clear and convincing evidence, individualized findings — and in practice they became paper. Arkansas achieved the same result without them: instead of making a dangerousness finding, the state sets a price. If you cannot pay, you stay. The constitutional problem was absorbed into judicial custom rather than resolved.
 
-### Arkansas's Constitutional Framework
+### Arkansas Framework: Bail as a Right, Bail as a Purchase
 
-Arkansas's constitution is actually one of the stronger ones: "All persons shall, before conviction, be bailable by sufficient sureties, except for capital offenses, when the proof is evident or the presumption great." That language has appeared almost verbatim in every Arkansas constitution since statehood. The Arkansas Supreme Court has called the right to bail an "absolute right" that "may only be curbed by the setting of sufficient sureties." In Foreman v. State (1994), the court held that using money bail with the express purpose of detaining someone is "contrary to the whole policy and philosophy of bail."
+Arkansas's constitution guarantees bail by sufficient sureties for non-capital offenses. That text does not authorize conditioning release on purchasing a bond. The objection is textual: the right to bail is a right to release, not a right to a loan. Foreman v. State (1994) made this explicit — the state cannot deny bail solely because a defendant cannot afford it.
 
-**Constitutional objections:** The Arkansas Constitution's bail clause was designed to prevent exactly what the commercial bail system produces. The objection is textual: the constitution guarantees bail by sufficient sureties. It does not authorize the state to condition release on the ability to purchase a bond from a for-profit company. Foreman v. State made this explicit — money bail used as a detention tool violates the constitution's core purpose.
+**The objection that survived:** The state never built a public release system. The commercial bail bond industry filled the gap, and judicial custom converted the constitutional right into a purchase. The "excessive bail loophole" — setting bail at an amount the defendant cannot pay — absorbed the constitutional problem into practice rather than resolving it.
 
-**The objection that survived:** The state never built a public pretrial release system. Instead, it outsourced release to for-profit bondsmen, and judges set cash amounts without any systematic inquiry into ability to pay. The constitutional right to bail became a right to purchase bail. If you cannot pay, you stay — not because a judge found you dangerous after a hearing, but because you are poor. That is the "excessive bail loophole": courts set financial conditions that result in detention, and as long as the stated purpose is "appearance" rather than "punishment," the Eighth Amendment's excessive bail clause is treated as satisfied. The loophole is the mechanism. The constitutional objection was never answered. It was absorbed into judicial custom.
+### The Protect Arkansas Act: Closing the Last Exit
 
-### The Protect Arkansas Act (2023): Closing the Last Exit
+The Protect Arkansas Act eliminated credit bonding, forcing the full 10 percent premium plus $34 in mandatory fees upfront. It tightened failure-to-appear windows from 75 days to 30. It created a public bail reporting system — a shaming registry for unconvicted people. And its sentencing provisions — 100 percent time served for 18 felonies, 85 percent for 53 — project 2,902 more prisoners by 2040, which is the demand forecast behind the Franklin County prison.
 
-The most recent and most consequential opening is the Protect Arkansas Act, passed in April 2023 as Act 659 and effective January 1, 2024. It eliminated "credit bonding" — the practice where bail bond companies accepted installment payments on the 10 percent premium, letting a defendant get out for a fraction upfront. Now the full 10 percent must be paid before release, plus mandatory fees: a $10 nonrefundable administrative fee to the Bail Bondsman Board, a $20 fee to the Arkansas Public Defender Commission, and a $4 administrative bail bond fee. For a $100,000 bond, that is $10,000 plus $34 in fees, all due immediately. A farmhand whose employer cannot get off a tractor cannot post that. Neither can most people arrested for nonviolent offenses.
+**Constitutional objections:** Eliminating credit bonding was objected to as an unconstitutional burden on the right to bail. The public bail reporting system was objected to as a due process and presumption-of-innocence violation. The sentencing provisions were objected to as cruel and unusual punishment and a separation-of-powers breach. Judge Patricia James's ruling on the governor's settlement was itself a separation-of-powers objection. The Act survived anyway — the objections were raised, noted, and deferred.
 
-The Act also tightened failure-to-appear rules — sureties now have 30 days instead of 75 to produce a defendant — which makes bondsmen more conservative about writing bonds at all. And it created a public bail reporting system listing names, arrest dates, bail amounts, and judges' names, which functions as a public shaming registry for people who have not been convicted of anything.
+### The Capital Interests: Who Profits from Detention
 
-The sentencing provisions are the long-term engine: 100 percent time served for the 18 most serious violent felonies, 85 percent for 53 lesser violent felonies, applied to offenses committed on or after January 1, 2025. DOC consultant Wendy Ware projects this adds 2,902 offenders by 2040. The Franklin County 3,000-bed prison was the proposed solution — $330 million set aside in 2023, a $750 million appropriation that failed five times in the Senate, land purchased for nearly $3 million, and as of August 2026 the project is on hold or canceled depending on who you ask. The beds are coming regardless. The question is only where.
+Bail bondsmen profit from detention. Forfeiture sends 100 percent of proceeds to law enforcement — 80 percent to police and prosecutors. Private prisons profit from filled beds and 13-to-52-cent labor. Counties absorb the unfunded mandate of holding 2,506 state inmates. Truth-in-sentencing isn't accountability; it's a demand forecast that guarantees the beds get built.
 
-**Constitutional objections:** The Act was challenged on multiple grounds. Eliminating credit bonding was objected to as an unconstitutional burden on the right to bail — the Arkansas Constitution guarantees bail by sufficient sureties, and requiring full payment upfront converts a right into a purchase. The public bail reporting system was objected to as a violation of due process and the presumption of innocence — publishing the names of unconvicted people functions as punishment before trial. The sentencing provisions were objected to as cruel and unusual punishment under the Eighth Amendment, particularly as applied to nonviolent offenses, and as a violation of separation of powers — the legislature setting mandatory minimums that remove judicial discretion.
+### The Sociocultural Parameters: The Social Machinery
 
-**The objection that survived:** Judge Patricia James ruled that the governor's settlement attempt usurped the power of the people — a separation-of-powers objection that the executive branch cannot negotiate away constitutional rights. But the Act itself survived. The constitutional objections were raised, noted, and deferred. The Act took effect January 1, 2024. The beds are still coming.
+Labeling theory explains the mechanism: once society stamps someone as criminal, that label becomes the identity, and the person starts acting in ways that confirm it. The label closes off every legitimate path, so the illegitimate one becomes the only one left. About 2.7 million American children have a parent behind bars. John Ehrlichman told Harper's the drug war was designed in part to associate Black communities with heroin and the antiwar left with marijuana — a participant's statement, not a complete explanation of policy. The loop does not require one conspiracy. Local incentives are enough.
 
-### The Unconstitutional Value
+The Virginia study of 19,000 cases found indigent status itself predicts harsher outcomes — court-appointed attorneys obtained average sentences of 8.5 years versus 6.9 for public defenders, and 19.8 years versus 12.3 in jury trials. The bigger, more consistent finding is that poverty predicts punishment, independent of offense.
 
-The constitutional problem is not subtle. Bearden v. Georgia (1983) held that the state cannot imprison someone for inability to pay a fine or restitution. In re Kowalczyk held that jailing someone before trial solely for inability to pay is unconstitutional. The DOJ's own 2016 report concluded that bail systems in many jurisdictions are unconstitutional and bad public policy. Arkansas's system does exactly what these authorities prohibit: it converts a constitutional right to bail into a commodity, and poverty into a detention order with no hearing, no counsel, no findings of dangerousness.
+The politics of fear: any reform gets framed as soft on crime. The 2026 ballot inventory runs toward more authority to detain before trial, not less. Each step described as a response to a defined threat. Each step making the next ordinary.
 
-The "excessive bail loophole" is the fig leaf. Salerno permits preventive detention only with procedural safeguards. Arkansas achieves the same result — detention before trial — without any of them, by setting a price instead of making a finding. The person detained is legally identical to the person Salerno would require a hearing for. The only difference is the paperwork.
+### The Closing: The Machinery, Not Just the Conditions
 
-### Capital Interests: Who Benefits
-
-Follow the money and the incentives align perfectly.
-
-- **Bail bond industry.** Arkansas has no public pretrial release system. The commercial surety industry is the release system. Every person who cannot pay is a customer. The Protect Arkansas Act's elimination of credit bonding did not hurt the industry — it helped it, by forcing full payment upfront and adding fees. Bondsmen profit from detention; reform threatens that revenue.
-
-- **Law enforcement and prosecutors.** Civil forfeiture sends 100 percent of proceeds to law enforcement — 80 percent to police and prosecutors, 20 percent to the Crime Lab Equipment Fund, up to $250,000 per forfeiture. The Institute for Justice, which grades Arkansas a D-minus, notes the average Arkansas seizure is about $1,051, and 77 percent of forfeiture cases default because owners never answer the complaint — often because they cannot afford a lawyer. The system is self-funding and self-perpetuating. More arrests mean more seizures mean more equipment mean more arrests.
-
-- **Private prisons and prison labor.** Private facilities profit from filled beds. Prison labor pays 13 to 52 cents an hour — seven Southern states pay nothing for most assignments. A 3,000-bed prison is a 3,000-bed labor pool and a construction contract. The Franklin County project would employ nearly 800 people at an average salary above $46,600 — in a rural county that fought the project anyway.
-
-- **County governments.** County jails hold state inmates on a backup list — 2,506 as of August 2026, 70 percent violent offenders in facilities not designed for them. Counties bear the cost; the state sets the policy. This is an unfunded mandate that makes rural sheriffs desperate for any solution, including more beds.
-
-- **The sentencing-industrial complex.** Truth-in-sentencing sounds like accountability. It is a demand forecast. 85 and 100 percent requirements guarantee a growing population for decades. The beds must be built. The contracts must be signed. The labor must be extracted.
-
-### Sociocultural Parameters
-
-The system also runs on social meaning, not just money.
-
-- **The criminal label as identity.** Labeling theory: once someone is stamped criminal, the label becomes the identity, and legitimate paths close. The system does not just fail to rehabilitate — it manufactures the next generation of offenders. About 2.7 million American children have a parent behind bars. The trauma compounds across generations.
-
-- **Race and the drug war.** John Ehrlichman, Nixon's domestic policy adviser, told Harper's in 1994 that the drug war was designed in part to associate Black communities with heroin and the antiwar left with marijuana. That is a participant's statement, not a complete explanation. But the racial skew of Arkansas's system — who gets arrested, who gets detained, who gets the longest sentences — is not accidental. It is the predictable output of a system built on those associations.
-
-- **Poverty as moral failure.** The wealth gap in sentencing — 8.5 years versus 6.9, 19.8 versus 12.3 — reflects a cultural assumption that poor defendants are more dangerous, more culpable, less redeemable. The Virginia study of 19,000 cases found indigent status itself predicts harsher outcomes, independent of offense type and criminal history. The system does not see poverty; it sees threat.
-
-- **The spectacle of punishment.** Public bail registries, failure-to-appear lists, and the rhetoric of "protecting Arkansas" create a politics where being tough on the accused is the only safe position. Any reform gets framed as soft on crime. The sociocultural parameter is fear, and fear is profitable.
+Each "reform" carried a constitutional objection that was deferred, not resolved. The Act is the first proposal that addresses the machinery itself — not just detention conditions, but the legal and financial structures that manufacture detention. Ending cash bail removes the price tag. Conviction-before-forfeiture removes the profit. RICO narrowing removes the pretext.
 
 ---
 
-## EXTRADUDICIAL PUNISHMENT INSIDE THE FACILITIES
-
-The Act's conditions-of-confinement provisions address the floor — no prolonged solitary, humane sleeping conditions, real disciplinary hearings. But the floor is not the ceiling. Inside Arkansas facilities, punishment is routinely imposed outside any legal process at all: no charge, no notice, no hearing, no finding of guilt. This is extrajudicial punishment, and it is the daily operating procedure of the system, not an aberration.
-
-### What Extrajudicial Punishment Means for Inmates
-
-Extrajudicial punishment is any deprivation of liberty or comfort imposed by staff without adjudication. In Arkansas facilities it takes a consistent form:
-
-- **Punitive lockdown before any process.** An inmate is identified as violating a rule by a detention officer, ordered to pack belongings, and placed in punitive lockdown immediately — before any notice, any hearing, any finding. The punishment precedes the adjudication. Under Bell v. Wolfish, pretrial detainees may not be punished at all; punishment requires conviction. Lockdown imposed on an unconvicted person for an alleged rule violation is punishment without trial.
-
-- **The conditions of that lockdown.** Twenty-three-hour lockdown in a two-man cell. Mattress and blanket removed from 6:30 a.m. and returned at 10:30 p.m. — sixteen hours a day on a bare surface. One hour out of cell for shower and recreation. No phone calls. Applied to "any and all" violations, including de minimis ones.
-
-- **The due process form as coercion.** Within twenty-four hours, officers bring a form that includes a waiver option. They read it aloud, do not provide a copy, and encourage the inmate to sign the waiver to get out of lockdown sooner. They tell inmates that requesting a hearing will take longer and may not result in one. Most inmates sign. Inmates who exercise their right and request a hearing generally do not receive one.
-
-- **Hearings that are not hearings.** When a review occurs, it is conducted without the inmate present — secretive, giving extreme weight to the charging officer's statement, with no opportunity to be heard, present evidence, or call witnesses, and no written statement of evidence or reasons. The charging officer is effectively judge, jury, and witness.
-
-- **The handbook as decoration.** The Greene County Detention Center handbook's Chapter 1 mission statement commits the facility to "recognition and enforcement of statutory, judicial and constitutional rights of all person in a fair and impartial manner." Chapter 28 covers disciplinary procedures; Chapter 31 covers lockdown types. Officers' documented practice violates both chapters. A facility that publishes rights it does not enforce is not a facility with a policy problem. It is a facility where the policy is the violation.
-
-### The Greene County Example
-
-The most detailed public record of this pattern comes from Greene County Detention Center in Paragould — a facility housing up to 456 inmates, averaging around 350. In Henry v. Franks (E.D. Ark. 3:22-cv-00186), pretrial detainee Rodney Henry documented the facility's standard process in a sworn complaint and supporting affidavits:
-
-Step 1: A detention officer identifies an inmate as violating a facility rule.
-Step 2: The inmate is ordered to pack belongings and placed in punitive lockdown — 23-hour lockdown in a two-man cell, mattress and blanket removed from 6:30 a.m. to 10:30 p.m., one hour out for shower and recreation, no phone calls, contrary to the handbook.
-Step 3: Within 24 hours, officers bring and read a "due process form" without providing a copy. The officer explains it and encourages signing the waiver portion to get out sooner. The form lists the violation class, the sanction days, and an option to waive or exercise due process rights and list witnesses.
-Step 4: The inmate is released into general population upon completion of the sanctioned time.
-
-The complaint alleges that inmates who sign requesting a hearing do not get one; that punishment begins before due process; and that any review is conducted without the inmate, without evidence, and without a written statement of reasons. The constitutional claims were due process under the Fourteenth Amendment — no advance written notice, no hearing, no opportunity to be heard, no written statement of evidence or reasons, citing Wolff v. McDonnell — and the Eighth Amendment through the punitive conditions of lockdown, citing Bell v. Wolfish for the principle that pretrial detainees cannot be punished.
-
-The case is one filing. The pattern it describes is alleged as the facility's normal practice and custom. Greene County is not an outlier in Arkansas; it is the documented example of what the system does when no one is watching.
-
-### What Discretion Means Here
-
-The word "discretion" in corrections is supposed to mean professional judgment exercised within legal limits — a trained officer choosing the least restrictive response to a genuine threat. What the Greene County record shows is discretion without limits: the power to impose the harshest available sanction on any violation, including the lowest, without review, without a hearing, and with a waiver process designed to make resistance costly.
-
-This is not discretion. It is **unreviewable power**. And unreviewable power inside a locked facility, applied to people who cannot leave, is the definition of extrajudicial punishment. The officer's word is the charge, the evidence, the verdict, and the sentence. The inmate's only procedural protection is a form read aloud without a copy, with a waiver the officer encourages.
-
-The Act's disciplinary-hearing mandate — notice, evidence, defense rights — is the minimum constitutional requirement under Wolff v. McDonnell. But the Greene County record shows why the mandate alone is not enough. A facility can publish a handbook committing to fair process and operate a system that delivers none. The Act therefore pairs the hearing mandate with independent oversight: an inspector general with subpoena power and a public data dashboard. Without independent eyes, the handbook is decoration and the discretion is absolute.
-
-### The Parole Parallel: Counsel Denied by Custom
-
-The same pattern of rights-on-paper, denial-in-practice appears at the parole stage. Arkansas regulations give parolees "the right to be represented by counsel" at revocation hearings — but a separate regulation states that a parolee "shall not have the right to have counsel appointed by the State" under any circumstances. In practice, the Post-Prison Transfer Board does not even screen indigent parolees for appointed counsel. In Fason v. Hamlet (E.D. Ark. 4:26-cv-00089), filed February 2026, parolees described the hearings as a "rubber stamp" for the violation report. Hearing officer Brandon Mills testified he had never appointed an attorney to any parolee in two years of service, despite receiving roughly eight requests. One plaintiff testified he cannot read or write, lives with schizophrenia and ADHD, and did not realize he was in a revocation hearing until it was happening.
-
-In February 2026, Chief Judge Kristine Baker granted a preliminary injunction and class certification, finding the state's practices violated due process and calling the regulation barring appointed counsel "unconstitutional." The state appealed. The injunction now requires written notice of violations, timely preliminary hearings, counsel screening, and written reasons when counsel is denied.
-
-This is the same mechanism as Greene County, at a different stage: a right that exists on paper, denied by custom, until a court forces the state to acknowledge it. The Act's parole reform — automatic eligibility for nonviolent offenses and appointed counsel at hearings — is not a policy preference. It is the remedy for a documented, court-adjudicated constitutional violation.
-
-### Why This Belongs in the Act
-
-Extrajudicial punishment is not a side effect of the detention system. It is the system operating as designed when oversight is absent. The Greene County record shows punishment before process, coercion dressed as waiver, hearings without the accused, and a handbook that promises fairness while the practice delivers none. The parole record shows counsel denied by regulation and custom, with a hearing officer who never once appointed an attorney in two years.
-
-The Act addresses this at every level: the disciplinary-hearing mandate restores Wolff v. McDonnell's minimums inside facilities; the solitary ban removes the harshest extrajudicial tool; independent oversight with subpoena power makes the unreviewable reviewable; and parole counsel reform closes the same gap at the back end. Each provision answers a documented practice, not a hypothetical one.
-
-The Constitution does not stop at the cell door. Arkansas has been operating as if it does. This Act is the correction.
-
----
-
-### Why This Matters for the Act
-
-The legislative history shows that each "reform" — the 1984 federal Act, the commercial bail system, the Protect Arkansas Act — was sold as a solution to a real problem. Each one expanded detention power. Each one carried a constitutional objection that was raised, noted, and deferred. The Arkansas Justice and Accountability Act is the first proposal that addresses the machinery itself: not just the conditions of detention, but the legal and financial structures that manufacture it. Ending cash-bail detention removes the price tag. Conviction-before-forfeiture removes the profit. RICO narrowing removes the pretext. Minimum wage for prison labor removes the extraction. Independent oversight removes the invisibility.
-
-The Constitution is not a suggestion. It is the floor. And Arkansas is currently building below it.
+*End of document.*

@@ -138,3 +138,7 @@ I urge you to:
 - Request a fiscal impact study comparing the Act to the Protect Arkansas Act.
 
 The Constitution is not a suggestion. It is the floor. And Arkansas is currently building below it.
+
+---
+
+*End of document.*

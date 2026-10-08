@@ -26,6 +26,8 @@ Arkansas is operating a detention and incarceration system that violates constit
 
 - **Psychological harm.** Labeling theory explains the mechanism: once society stamps someone as criminal, that label becomes the identity. Solitary confinement causes lasting psychological damage — the UN Special Rapporteur on torture has called prolonged solitary torture. Collateral consequences create the exact conditions that feed reoffending.
 
+- **Extrajudicial punishment inside facilities:** Documented in Greene County Detention Center (Henry v. Franks) — punishment before process, coerced waivers, secret hearings without the accused, a handbook promising constitutional rights that officers do not follow. The same pattern appears at parole revocation: counsel denied by regulation and custom, a hearing officer who never appointed an attorney in two years, until a 2026 federal injunction forced change.
+
 - **Arkansas politics.** Governor Sanders supports the Protect Arkansas Act and the Franklin County prison project, though internal DOC emails suggest it is effectively dead. Judge Patricia James ruled the governor's settlement attempt usurped the power of the people. A September 2026 Judiciary Committee hearing heard testimony that reentry programs and alternatives would ease overcrowding better than new beds, and the ARCHway Institute is pushing substance-use treatment as the front-end fix.
 
 **The legislative package:** end cash-bail detention; conviction-before-forfeiture; minimum wage for prison labor; restore parole eligibility and attorneys at hearings; an independent inspector general; a ban on prolonged solitary confinement; free calls for indigent inmates; real education and legal research access; and a RICO provision requiring a profit motive or economic enterprise rather than mere shared political purpose. These are framed as constitutional necessities, not policy preferences.
@@ -101,7 +103,7 @@ The Arkansas Justice and Accountability Act proposes:
 3. **Minimum Wage for Prison Labor** — No solitary confinement or loss of visitation for refusing work.
 4. **Parole Reform** — Restore automatic parole eligibility for nonviolent offenses. Provide attorneys at parole hearings.
 5. **Independent Oversight** — Create an inspector general with subpoena power and a public data dashboard.
-6. **Conditions of Confinement** — Ban prolonged solitary confinement. Require humane sleeping conditions. Mandate real disciplinary hearings with notice, evidence, and defense rights.
+6. **Conditions of Confinement** — Ban prolonged solitary confinement. Require humane sleeping conditions. Mandate real disciplinary hearings with notice, evidence, and defense rights — ending the practice of punishment before process documented in Greene County (Henry v. Franks).
 7. **Communication Access** — Free calls for indigent inmates.
 8. **Education and Legal Access** — Real educational materials and free access to legal research.
 9. **RICO Narrowing** — Require a profit motive or economic enterprise for racketeering charges. Shared political purpose alone is not an enterprise.
@@ -206,6 +208,65 @@ The system also runs on social meaning, not just money.
 - **Poverty as moral failure.** The wealth gap in sentencing — 8.5 years versus 6.9, 19.8 versus 12.3 — reflects a cultural assumption that poor defendants are more dangerous, more culpable, less redeemable. The Virginia study of 19,000 cases found indigent status itself predicts harsher outcomes, independent of offense type and criminal history. The system does not see poverty; it sees threat.
 
 - **The spectacle of punishment.** Public bail registries, failure-to-appear lists, and the rhetoric of "protecting Arkansas" create a politics where being tough on the accused is the only safe position. Any reform gets framed as soft on crime. The sociocultural parameter is fear, and fear is profitable.
+
+---
+
+## EXTRADUDICIAL PUNISHMENT INSIDE THE FACILITIES
+
+The Act's conditions-of-confinement provisions address the floor — no prolonged solitary, humane sleeping conditions, real disciplinary hearings. But the floor is not the ceiling. Inside Arkansas facilities, punishment is routinely imposed outside any legal process at all: no charge, no notice, no hearing, no finding of guilt. This is extrajudicial punishment, and it is the daily operating procedure of the system, not an aberration.
+
+### What Extrajudicial Punishment Means for Inmates
+
+Extrajudicial punishment is any deprivation of liberty or comfort imposed by staff without adjudication. In Arkansas facilities it takes a consistent form:
+
+- **Punitive lockdown before any process.** An inmate is identified as violating a rule by a detention officer, ordered to pack belongings, and placed in punitive lockdown immediately — before any notice, any hearing, any finding. The punishment precedes the adjudication. Under Bell v. Wolfish, pretrial detainees may not be punished at all; punishment requires conviction. Lockdown imposed on an unconvicted person for an alleged rule violation is punishment without trial.
+
+- **The conditions of that lockdown.** Twenty-three-hour lockdown in a two-man cell. Mattress and blanket removed from 6:30 a.m. and returned at 10:30 p.m. — sixteen hours a day on a bare surface. One hour out of cell for shower and recreation. No phone calls. Applied to "any and all" violations, including de minimis ones.
+
+- **The due process form as coercion.** Within twenty-four hours, officers bring a form that includes a waiver option. They read it aloud, do not provide a copy, and encourage the inmate to sign the waiver to get out of lockdown sooner. They tell inmates that requesting a hearing will take longer and may not result in one. Most inmates sign. Inmates who exercise their right and request a hearing generally do not receive one.
+
+- **Hearings that are not hearings.** When a review occurs, it is conducted without the inmate present — secretive, giving extreme weight to the charging officer's statement, with no opportunity to be heard, present evidence, or call witnesses, and no written statement of evidence or reasons. The charging officer is effectively judge, jury, and witness.
+
+- **The handbook as decoration.** The Greene County Detention Center handbook's Chapter 1 mission statement commits the facility to "recognition and enforcement of statutory, judicial and constitutional rights of all person in a fair and impartial manner." Chapter 28 covers disciplinary procedures; Chapter 31 covers lockdown types. Officers' documented practice violates both chapters. A facility that publishes rights it does not enforce is not a facility with a policy problem. It is a facility where the policy is the violation.
+
+### The Greene County Example
+
+The most detailed public record of this pattern comes from Greene County Detention Center in Paragould — a facility housing up to 456 inmates, averaging around 350. In Henry v. Franks (E.D. Ark. 3:22-cv-00186), pretrial detainee Rodney Henry documented the facility's standard process in a sworn complaint and supporting affidavits:
+
+Step 1: A detention officer identifies an inmate as violating a facility rule.
+Step 2: The inmate is ordered to pack belongings and placed in punitive lockdown — 23-hour lockdown in a two-man cell, mattress and blanket removed from 6:30 a.m. to 10:30 p.m., one hour out for shower and recreation, no phone calls, contrary to the handbook.
+Step 3: Within 24 hours, officers bring and read a "due process form" without providing a copy. The officer explains it and encourages signing the waiver portion to get out sooner. The form lists the violation class, the sanction days, and an option to waive or exercise due process rights and list witnesses.
+Step 4: The inmate is released into general population upon completion of the sanctioned time.
+
+The complaint alleges that inmates who sign requesting a hearing do not get one; that punishment begins before due process; and that any review is conducted without the inmate, without evidence, and without a written statement of reasons. The constitutional claims were due process under the Fourteenth Amendment — no advance written notice, no hearing, no opportunity to be heard, no written statement of evidence or reasons, citing Wolff v. McDonnell — and the Eighth Amendment through the punitive conditions of lockdown, citing Bell v. Wolfish for the principle that pretrial detainees cannot be punished.
+
+The case is one filing. The pattern it describes is alleged as the facility's normal practice and custom. Greene County is not an outlier in Arkansas; it is the documented example of what the system does when no one is watching.
+
+### What Discretion Means Here
+
+The word "discretion" in corrections is supposed to mean professional judgment exercised within legal limits — a trained officer choosing the least restrictive response to a genuine threat. What the Greene County record shows is discretion without limits: the power to impose the harshest available sanction on any violation, including the lowest, without review, without a hearing, and with a waiver process designed to make resistance costly.
+
+This is not discretion. It is **unreviewable power**. And unreviewable power inside a locked facility, applied to people who cannot leave, is the definition of extrajudicial punishment. The officer's word is the charge, the evidence, the verdict, and the sentence. The inmate's only procedural protection is a form read aloud without a copy, with a waiver the officer encourages.
+
+The Act's disciplinary-hearing mandate — notice, evidence, defense rights — is the minimum constitutional requirement under Wolff v. McDonnell. But the Greene County record shows why the mandate alone is not enough. A facility can publish a handbook committing to fair process and operate a system that delivers none. The Act therefore pairs the hearing mandate with independent oversight: an inspector general with subpoena power and a public data dashboard. Without independent eyes, the handbook is decoration and the discretion is absolute.
+
+### The Parole Parallel: Counsel Denied by Custom
+
+The same pattern of rights-on-paper, denial-in-practice appears at the parole stage. Arkansas regulations give parolees "the right to be represented by counsel" at revocation hearings — but a separate regulation states that a parolee "shall not have the right to have counsel appointed by the State" under any circumstances. In practice, the Post-Prison Transfer Board does not even screen indigent parolees for appointed counsel. In Fason v. Hamlet (E.D. Ark. 4:26-cv-00089), filed February 2026, parolees described the hearings as a "rubber stamp" for the violation report. Hearing officer Brandon Mills testified he had never appointed an attorney to any parolee in two years of service, despite receiving roughly eight requests. One plaintiff testified he cannot read or write, lives with schizophrenia and ADHD, and did not realize he was in a revocation hearing until it was happening.
+
+In February 2026, Chief Judge Kristine Baker granted a preliminary injunction and class certification, finding the state's practices violated due process and calling the regulation barring appointed counsel "unconstitutional." The state appealed. The injunction now requires written notice of violations, timely preliminary hearings, counsel screening, and written reasons when counsel is denied.
+
+This is the same mechanism as Greene County, at a different stage: a right that exists on paper, denied by custom, until a court forces the state to acknowledge it. The Act's parole reform — automatic eligibility for nonviolent offenses and appointed counsel at hearings — is not a policy preference. It is the remedy for a documented, court-adjudicated constitutional violation.
+
+### Why This Belongs in the Act
+
+Extrajudicial punishment is not a side effect of the detention system. It is the system operating as designed when oversight is absent. The Greene County record shows punishment before process, coercion dressed as waiver, hearings without the accused, and a handbook that promises fairness while the practice delivers none. The parole record shows counsel denied by regulation and custom, with a hearing officer who never once appointed an attorney in two years.
+
+The Act addresses this at every level: the disciplinary-hearing mandate restores Wolff v. McDonnell's minimums inside facilities; the solitary ban removes the harshest extrajudicial tool; independent oversight with subpoena power makes the unreviewable reviewable; and parole counsel reform closes the same gap at the back end. Each provision answers a documented practice, not a hypothetical one.
+
+The Constitution does not stop at the cell door. Arkansas has been operating as if it does. This Act is the correction.
+
+---
 
 ### Why This Matters for the Act
 

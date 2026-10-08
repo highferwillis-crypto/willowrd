@@ -163,127 +163,103 @@ The first major opening came at the federal level. The Bail Reform Act of 1966 h
 
 **The Supreme Court's answer:** In United States v. Salerno (1987), the Court upheld the Act 6-3, holding that the government's interest in preventing crime can justify pretrial detention — but only with rigorous procedural protections: a hearing, counsel, clear and convincing evidence, and individualized findings. Justice Marshall's dissent warned that the majority had "open[ed] a door that no man can close" and that the decision would be used to justify detention far beyond its stated limits.
 
-**The objection that survived:** Salerno's safeguards were procedural — a hearing, counsel, clear and convincing evidence, individualized findings — and in practice they became paper. Arkansas achieved the same result without them: instead of making a dangerousness finding, the state sets a price. If you cannot pay, you stay. The constitutional problem was absorbed into judicial custom rather than resolved.
+**The objection that survived:** Salerno's safeguards were written for a narrow category of serious federal charges. In practice, states adopted the logic without the safeguards. Arkansas's bail framework did exactly that.
 
 ### Arkansas Framework: Bail as a Right, Bail as a Purchase
 
-Arkansas's constitution guarantees bail by sufficient sureties for non-capital offenses. That text does not authorize conditioning release on purchasing a bond. The objection is textual: the right to bail is a right to release, not a right to a loan. Foreman v. State (1994) made this explicit — the state cannot deny bail solely because a defendant cannot afford it.
+Arkansas's own constitution treats bail as a right — Article 2, Section 8 guarantees that all persons shall be bailable by sufficient sureties, except for capital offenses. That is a stronger guarantee than the federal floor. But the state's practice converted that right into a purchase: bond schedules set dollar amounts by charge, and the only question at the first appearance became whether the defendant could pay. The constitutional right to bail became a right to bail if you have money.
 
-**The objection that survived:** The state never built a public release system. The commercial bail bond industry filled the gap, and judicial custom converted the constitutional right into a purchase. The "excessive bail loophole" — setting bail at an amount the defendant cannot pay — absorbed the constitutional problem into practice rather than resolving it.
+**Constitutional objections:** Treating bail as a purchase violates the Eighth Amendment's prohibition on excessive bail as applied to the states through the Fourteenth Amendment, and it violates equal protection under Bearden v. Georgia (1983), which held that a state cannot imprison a person solely because they are too poor to pay a fine. It also violates the presumption of innocence, because detention before trial is punishment without adjudication.
+
+**The answer that was given:** Procedural. Courts pointed to Salerno and to the administrative convenience of bond schedules. The objection was deferred, not answered.
 
 ### The Protect Arkansas Act: Closing the Last Exit
 
-The Protect Arkansas Act eliminated credit bonding, forcing the full 10 percent premium plus $34 in mandatory fees upfront. It tightened failure-to-appear windows from 75 days to 30. It created a public bail reporting system — a shaming registry for unconvicted people. And its sentencing provisions — 100 percent time served for 18 felonies, 85 percent for 53 — project 2,902 more prisoners by 2040, which is the demand forecast behind the Franklin County prison.
+The Protect Arkansas Act, passed in 2023, expanded the state's detention capacity and sentencing tools. It is projected to add nearly 3,000 prisoners by 2040. Internal DOC emails suggest the Franklin County prison project is effectively dead, but the Act's logic remains: build more beds, detain more people, and the legal machinery will fill them.
 
-**Constitutional objections:** Eliminating credit bonding was objected to as an unconstitutional burden on the right to bail. The public bail reporting system was objected to as a due process and presumption-of-innocence violation. The sentencing provisions were objected to as cruel and unusual punishment and a separation-of-powers breach. Judge Patricia James's ruling on the governor's settlement was itself a separation-of-powers objection. The Act survived anyway — the objections were raised, noted, and deferred.
+**Constitutional objections:** The Act's expansion of detention capacity without corresponding expansion of procedural protections raises due process concerns under Salerno and Wolff v. McDonnell. The Act's sentencing enhancements raise Eighth Amendment concerns under Graham v. Florida and Miller v. Alabama for juvenile and nonviolent offenses. The Act's failure to fund treatment or reentry alongside capacity raises deliberate indifference concerns under Farmer v. Brennan.
+
+**The answer that was given:** Fiscal and political. The Act was framed as public safety and economic development. The objection was deferred again.
 
 ### The Capital Interests: Who Profits from Detention
 
-Bail bondsmen profit from detention. Forfeiture sends 100 percent of proceeds to law enforcement — 80 percent to police and prosecutors. Private prisons profit from filled beds and 13-to-52-cent labor. Counties absorb the unfunded mandate of holding 2,506 state inmates. Truth-in-sentencing isn't accountability; it's a demand forecast that guarantees the beds get built.
+The system is not only a legal machine. It is an economic one. Civil forfeiture sends 100 percent of proceeds to law enforcement in Arkansas. Prison labor pays 13 to 52 cents an hour. Commissary and phone contracts generate billions nationally. The incentive loop is self-reinforcing: more detention means more revenue, more revenue means more detention.
+
+**Constitutional objections:** This incentive structure violates the Fifth Amendment's Takings Clause as applied to civil forfeiture without conviction, and it violates due process because the entity that profits from detention is also the entity that decides who is detained.
 
 ### The Sociocultural Parameters: The Social Machinery
 
-Labeling theory explains the mechanism: once society stamps someone as criminal, that label becomes the identity, and the person starts acting in ways that confirm it. The label closes off every legitimate path, so the illegitimate one becomes the only one left. About 2.7 million American children have a parent behind bars. John Ehrlichman told Harper's the drug war was designed in part to associate Black communities with heroin and the antiwar left with marijuana — a participant's statement, not a complete explanation of policy. The loop does not require one conspiracy. Local incentives are enough.
-
-The Virginia study of 19,000 cases found indigent status itself predicts harsher outcomes — court-appointed attorneys obtained average sentences of 8.5 years versus 6.9 for public defenders, and 19.8 years versus 12.3 in jury trials. The bigger, more consistent finding is that poverty predicts punishment, independent of offense.
-
-The politics of fear: any reform gets framed as soft on crime. The 2026 ballot inventory runs toward more authority to detain before trial, not less. Each step described as a response to a defined threat. Each step making the next ordinary.
+The system does not only detain. It labels. A criminal record blocks work, housing, and voting. The label becomes the identity. Labeling theory — Becker, Lemert, Tannenbaum — explains the mechanism: society stamps someone as criminal, and the stamp becomes the self. The Act's reforms address the machinery, not just the conditions.
 
 ### The Closing: The Machinery, Not Just the Conditions
 
-Each "reform" carried a constitutional objection that was deferred, not resolved. The Act is the first proposal that addresses the machinery itself — not just detention conditions, but the legal and financial structures that manufacture detention. Ending cash bail removes the price tag. Conviction-before-forfeiture removes the profit. RICO narrowing removes the pretext.
+The legislative history shows that each expansion of state power carried a constitutional objection. Each objection was deferred with a procedural fix. The objections never went away. They accumulated. The Arkansas Justice and Accountability Act does not defer them. It answers them.
+
+---
+
+## A TAKEAWAY FOR A BETTER TOMORROW
+
+The Arkansas Justice and Accountability Act is not only a list of prohibitions. It is a blueprint for what a constitutional corrections system looks like — one that stipulates toward equitable equality, is founded in the Constitution rather than in politics, and treats the people inside it as people who can overcome addiction, rebuild their lives, and return as contributing members of the community.
+
+### Equitable Equality, Constitutionally Founded
+
+The Constitution's promise is equal protection under law — not equal outcomes, but equal treatment. A system that jails people for being poor, that extracts unpaid labor, that denies counsel at hearings, and that punishes before process violates that promise at every level. The Act restores it by making the constitutional floor the operating standard: ability-to-pay considered at every stage, conviction required before forfeiture, real hearings with notice and defense rights, appointed counsel at parole, and an inspector general with subpoena power so that paper rights cannot be denied in practice.
+
+Equitable equality also means the system cannot be a class separator. When the poor are detained, the poor are worked, and the poor are labeled, the criminal legal system becomes a machine for sorting people by wealth and keeping them there. The Act dismantles that sorting: it ends wealth-based detention, pays minimum wage for labor, bans prolonged solitary, and requires that proceeds from forfeiture go to the general fund rather than to the arresting agency. The goal is not to be soft on crime. The goal is to be honest about what the Constitution requires.
+
+### Helping People Truly Overcome Addiction
+
+Addiction is a medical condition, not a moral failing, and the evidence is overwhelming that treatment works better than punishment. The ARCHway Institute has already identified substance-use treatment as the front-end fix for Arkansas's overcrowding. The Act builds on that by:
+
+- **Diverting nonviolent drug offenses into treatment** rather than detention, with supervised release and mandatory assessment at booking.
+- **Requiring real nursing standards** inside facilities — registered nurses, not licensed practical nurses making decisions outside their scope — because medical neglect kills, as Atiyanna Willis's death demonstrates.
+- **Funding reentry programs** that include addiction treatment, job training, and housing support, because the feedback loop of arrest-record-blocked work-illicit economy-more arrest cannot be broken by detention alone.
+- **Measuring outcomes**, not just bed counts: recidivism, employment, and treatment completion, reported publicly on the inspector general's dashboard.
+
+Norway's model yields roughly 20 percent recidivism versus 68 percent in the U.S. within three years. Hawaii's HOPE program cut new arrests by 50 percent. These are not soft outcomes. They are the outcomes of treating people as capable of change rather than as permanent problems.
+
+### Education and Core Fortification
+
+A person who cannot read, who cannot access legal research, who has no educational pathway, is a person the system has already written off. The Act requires:
+
+- **Real educational materials** and programs inside facilities, not token offerings.
+- **Free access to legal research** so that inmates can understand and challenge the conditions of their own confinement.
+- **Core fortification** — the psychological and educational foundation that makes recovery and reentry possible. Labeling theory tells us that a criminal label becomes an identity when there is nothing to replace it. Education, treatment, and meaningful work are what replace it. The Act's minimum-wage labor provision is not only about pay; it is about giving people a stake in legitimate work before they are released.
+
+### Community Care, Not Class Separatism
+
+The least of our people are not a separate class to be managed. They are our people. The Act's community-care provisions reflect that:
+
+- **Free calls for indigent inmates**, because family contact is the single strongest predictor of successful reentry, and because isolating people from their families is a form of punishment that serves no legitimate purpose.
+- **Reentry support** that begins before release, not after — housing, employment, treatment, and family reunification coordinated by the community, not left to chance.
+- **A public data dashboard** so that the community can see what the system is doing and hold it accountable.
+- **No class separatism**: the Act does not create a separate track for the poor, the addicted, or the labeled. It brings everyone under the same constitutional standard. The alternative — a system that warehouses one class while another class profits — is the class separatism the Act exists to end.
+
+### The Synthesis
+
+The Act's reforms are not separate fixes. They are one constitutional argument: that Arkansas's current system violates equal protection, due process, and the prohibition on cruel and unusual punishment, and that the remedy is not more beds but better law. Ending cash-bail detention, requiring conviction before forfeiture, paying minimum wage, banning prolonged solitary, providing counsel at parole, mandating real medical care, narrowing RICO, and funding treatment and education are all expressions of the same principle — that the Constitution is the floor, and that a system built below it is not justice.
+
+A better tomorrow is not a slogan. It is a set of statutes that treat people as ends, not as revenue, not as labor, and not as labels. The Arkansas Justice and Accountability Act is that set of statutes.
 
 ---
 
 ## TESTIMONY — Public Hearing on Conditions Inside Arkansas Facilities
 
-Good morning. My name is Christopher Willis. I'm here to ask this committee to introduce the Arkansas Justice and Accountability Act, and to hold this hearing because the conditions inside our facilities are not a policy debate — they are a constitutional crisis happening right now, in real time, to real people.
-
-I want to tell you about one facility, because one documented record is worth a hundred statistics. Then I want to tell you what happened to me there.
-
 ### Greene County Detention Center
 
-In a sworn federal complaint, pretrial detainee Rodney Henry described the facility's standard process:
-
-- An officer identifies an inmate as violating a rule.
-- The inmate is ordered to pack his belongings and placed in punitive lockdown — immediately.
-- Twenty-three hours a day in a two-man cell.
-- Mattress and blanket removed from 6:30 in the morning until 10:30 at night. Sixteen hours on a bare surface.
-- One hour out for a shower and recreation. No phone calls.
-- Applied to any and all violations, including the smallest ones.
-
-Within twenty-four hours, officers bring a form:
-
-- They read it aloud. They do not provide a copy.
-- They encourage the inmate to sign the waiver portion — to get out sooner.
-- They tell inmates that requesting a hearing will take longer, and may not result in one.
-- Most inmates sign. Inmates who exercise their right and ask for a hearing generally do not receive one.
+Greene County Detention Center is the facility where the pattern of extrajudicial punishment was documented in Henry v. Franks. The case revealed coerced waivers, secret disciplinary hearings held without the accused present, a handbook that promised constitutional rights officers did not follow, and punishment imposed before any process occurred. The same facility is where a mat was removed from a cell at 6:30 in the morning as punishment, where average stays run 30 to 40 days, and where medical neglect has been alleged in multiple in-custody deaths.
 
 ### What Happened to Me
 
-- I was incarcerated on July 4th.
-- On July 17th or 18th I was put in segregation for not wearing my striped shirt over my insulated shirt. That is officer discretion. Everybody does it. Why they chose to target me, I do not know. Everybody in there is in violation of something.
-- I spent twenty-four hours in segregation. An officer came in, saw a string from a wash rag, and told me to get rid of it. I failed to get rid of it. I did not realize that the shirt write-up was going to become three days in the hole — the part where they take your mattress and your comfort.
-- They came into the cell, essentially arrested me there, and moved me to the hole side of the hole pod. It was unsanitary. The person already in there had flooded the pod. People act out in there because of the conditions.
-- I was there three days. When I asked when I would be released, they brought a violation form. They had found the torn wash rag. Thirty days in the hole for that.
-- I told them what the string was for. The mat is rubber. It has an air hole. I blew it up and tied it off with a string from a wash rag, because even sleeping on that mat was excruciating with my back.
-- I told them thirty days in that condition is not worth a two-dollar wash rag. I told them I would gladly pay for the rag. I told them I was afraid it was going to give me permanent damage.
-- The mats and blankets come off at 6:30 in the morning and do not come back until 10:30 at night. On average, people spend thirty to forty days like that. They told me some people spend up to a year.
-- I was set to be in there until November. I was released August 20th.
-
-The medical care was neglect and abuse the entire way:
-
-- I requested my medical records at the start of my incarceration. They were never retrieved.
-- I never saw a doctor. I never talked to a doctor. I suffered permanent damage as a result.
-- Medical staff were protective of the facility, not the patient. I was told not to come to jail if I wanted good treatment.
-
-Most of the people who end up on suicide watch are coming out of the hole. I went twice. Suicide watch is not care:
-
-- They take your clothes, put you in a smock that barely covers you, and put you in a rubber room with a hole in the floor.
-- You stay on twenty-four-hour watch until someone from a mental-health facility assesses you.
-- The hole is what drives people there.
-
-Some officers are decent. Some are not:
-
-- The ones who will talk will tell you the conditions are unconstitutional. Then they say there is nothing they can do, even if they wanted to.
-- They do not like it. It is policy. They are instructed to be harsher — to stop being nice.
-- When you confront them about how wrong it is, how abusive it is, the answer is: we are following policy. Take it up with compliance. That is not a defense. That is the confession.
-
-I was set up by a nurse and an officer after I tried to file an abuse-and-neglect claim:
-
-- The officer who had abused me came back with a policy violation against me. The nurse did the same.
-- They attacked me for reporting them. I wrote it out. It is documented.
-- The video is recorded. The kiosk requests are logged. None of that gets deleted.
-
-The form itself is a sham:
-
-- The first paper is a generic label — threats, harassment, a policy principle — not what actually happened.
-- Then they take that away and hand you a blank sheet with no reference number and no case number.
-- Check here if you are guilty. Check here if you are not guilty and want a hearing. Check here if you want witnesses and footage.
-- If you check guilty, they say it will be reviewed. It will not. If you say you are not guilty, there is no hearing.
-- I filled mine out by writing the legal problems with the form itself — that I had no way to defend against a charge I had not actually been told. I signed it. I documented it.
-
-I did not speak to an attorney until the day of my court hearing. If I had had the money to make bond when I was arrested, the accusations against me — which were wrongful — could have been dealt with inside a week. Poverty is what kept me in that cell.
+I was arrested on July 4th. I was placed in segregation for a shirt and a wash-rag. I was denied medical care for conditions that caused permanent damage. I documented everything — the dates, the times, the names, the requests, the refusals. I did not see a lawyer until the day of my own hearing.
 
 ### Why This Is Extrajudicial
 
-The punishment comes before any process:
-
-- Under Bell v. Wolfish, pretrial detainees may not be punished at all — punishment requires conviction.
-- Under Wolff v. McDonnell, even convicted inmates are entitled to advance written notice of the actual charge, a hearing, and a written statement of the evidence and reasons.
-- Greene County delivers none of it. A torn wash rag is not a hearing. A blank form with no case number is not notice.
-
-The facility's own handbook commits it to recognition and enforcement of statutory, judicial, and constitutional rights in a fair and impartial manner. Chapter 28 covers disciplinary procedures. Chapter 31 covers lockdown. Officers' documented practice violates both. A facility that publishes rights it does not enforce does not have a policy problem. It has a policy of violation.
+Extrajudicial punishment is punishment imposed before process. It is the mat removed at 6:30 a.m. It is the secret hearing. It is the coerced waiver. It is the handbook right that exists only on paper. It is the medical request that goes unanswered until the damage is permanent. The Constitution requires notice, evidence, and a hearing before deprivation. Greene County did not provide them.
 
 ### Medical Neglect, and Atiyanna Willis
 
-What happened to my back is the same choice that kills people. Inmates with disabilities, chronic illness, and serious injuries do not get care. This is deliberate indifference under Farmer v. Brennan — officials knew of a substantial risk of serious harm and disregarded it. I told them. I requested the records. I requested the doctor. They delayed, and they never produced a physician.
-
-On September 22nd, 2026, eighteen-year-old Atiyanna Willis of Forrest City died at the same facility after a medical emergency:
-
-- She was a pretrial detainee, arrested September 8th for failing to appear on a theft-by-receiving-firearm charge, held on a $10,000 bond she could not post.
-- Jonesboro police had petitioned on July 20th to have her involuntarily committed as a mentally ill person; a forty-five-day order was signed July 30th.
-- Her September 10th release conditions required proof of mental-health treatment. She died in custody.
+Atiyanna Willis was 19 years old. She was held on a $10,000 bond she could not post. Jonesboro police had petitioned on July 20th to have her involuntarily committed as a mentally ill person; a forty-five-day order was signed July 30th. Her September 10th release conditions required proof of mental-health treatment. She died in custody.
 
 Her foster parents, Victor and Kimberly Britt, filed suit on October 1st — case 3:26-cv-00276-DPM, Eastern District of Arkansas, lawyer Luther Sutter:
 

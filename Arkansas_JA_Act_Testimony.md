@@ -1,6 +1,5 @@
 TESTIMONY — Arkansas Justice and Accountability Act
 Public Hearing on Conditions Inside Arkansas Facilities
-Christopher Willis
 
 Good morning. My name is Christopher Willis. I'm here to ask this committee to introduce the Arkansas Justice and Accountability Act, and to hold this hearing because the conditions inside our facilities are not a policy debate — they are a constitutional crisis happening right now, in real time, to real people.
 

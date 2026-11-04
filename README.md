@@ -59,6 +59,10 @@ Science as a system that sorts people by wealth and calls it objectivity. Machin
 2. Can self-reference (Gödel, the liar paradox) bridge the gap between "this means something to me" and "this is how reality works"?
 3. What survives when you strip the cipher from the empire critique?
 
+## Related Resources
+
+- Google Drive folder: https://drive.google.com/drive/folders/1RDHNKsvdqnPuraXSJSF96LK2DLm3v16K
+
 ---
 
 *This is not the end days. This is creator architecture. Lift up everyone, all life.*
